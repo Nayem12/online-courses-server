@@ -1,0 +1,86 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "course_id": "01",
+        "name": "PROFESSIONAL GRAPHIC DESIGN",
+        "title": "Graphicriver and freelancing marketplace base graphic design & design concept development based curriculum.",
+        "image_url": "https://i.ibb.co/Zzt5KG8/graphic.png",
+        "details": "Graphic designing is a combination of symbols, images, and text to form visual representations of messages and ideas. The graphic designing field is considered as an extended field of visual communication and communication design. Graphic designers create and combine symbols, images, and text to represent an idea or message. Graphic design course allows creating a logo, flyer, brochure, catalog, business card, posters, branding of a product or business, corporate graphic, website, UI, UX, web banner, digital marketing campaign related ad, Photoshop, vector and vector illustration, infographic, technical illustration, and visualization.",
+        "course_fee": "30,000.00",
+        "total_class": "40 classes",
+        "duration": "5 month",
+        "course_module": ""
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "course_id": "02",
+        "name": "WEB DEVELOPMENT",
+        "title": "PHP, PHP OOP, MySQL & Laravel base website development, ecommerce development and web application development.",
+        "image_url": "https://i.ibb.co/CJZxYTJ/webdevelopment.jpg",
+        "details": "Web development is the aggregation of all the tasks associated with developing websites. The web development process includes various things. These include website design, web content development, server-side scripting, client-side coding and network security configuration, among other things. Web development is also known as website development.",
+        "course_fee": "30,000.00",
+        "total_class": "40 classes",
+        "duration": "5 month",
+        "course_module": ""
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "course_id": "03",
+        "name": "ADVANCED GRAPHIC DESIGN",
+        "title": "Advance graphic design course design for smart and advance part of graphic design concept.",
+        "image_url": "https://i.ibb.co/Q98jT3p/graphic.jpg",
+        "details": "Given challenging real-world projects and assignments typical of the graphic design industry. High quality work is expected and students will be given opportunities to redo work until it meets standards specified by instruction. Classroom activities will include reading, research, projects, and problem-solving. Students will often work in teams but will be expected to complete individual assignments in relation to the team's work. Assessment methods will include written exams, tests, and quizzes, oral and written research reports, reading assignment and projects.",
+        "course_fee": "30,000.00",
+        "total_class": "40 classes",
+        "duration": "5 month",
+        "course_module": ""
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "course_id": "04",
+        "name": "DIGITAL MARKETING",
+        "title": "International and local market client requirement wise digital marketing digital course curriculum.",
+        "image_url": "https://i.ibb.co/Cn0tw7X/digital.jpg",
+        "details": "This Digital Marketing Training Program provides a detailed understanding about Digital Marketing concepts, strategies and implementation, including planning a website, website promotion, email and Search Engine Optimization (SEO) campaigns and integrating digital marketing with traditional marketing. At a high level, digital marketing refers to advertising delivered through digital channels such as search engines, websites, social media, email, and mobile apps. While this term covers a wide range of marketing activities, all of which are not universally agreed upon, we’ll focus on the most common types below.",
+        "course_fee": "50,000.00",
+        "total_class": "30 classes",
+        "duration": "4 month",
+        "course_module": ""
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "course_id": "05",
+        "name": "UI/UX DESIGN",
+        "title": "International and freelancing marketplace base UI/UX design & good design concept development based course curriculum.",
+        "image_url": "https://i.ibb.co/2Wbj9pP/ui.jpg",
+        "details": "UX Design refers to the term User Experience Design, while UI Design stands for User Interface Design. Both elements are crucial to a product and work closely together. But despite their professional relationship, the roles themselves are quite different, referring to very different parts of the process and the design discipline. User experience (UX) refers to any interaction a user has with a product or service. UX design considers each and every element that shapes this experience, how it makes the user feel, and how easy it is for the user to accomplish their desired tasks. UI design is the look and feel, the presentation and the interactivity of a product.",
+        "course_fee": "25,000.00",
+        "total_class": "40 classes",
+        "duration": "5 month",
+        "course_module": ""
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "course_id": "06",
+        "name": "FULL STACK WEB DEVELOPMENT",
+        "title": "Freelancing marketplace and local market based course curriculum of full stack web development course.",
+        "image_url": "https://i.ibb.co/S0JKJKC/full.jpg",
+        "details": "Full Stack Development Course is Freelancing marketplace and local market based course curriculum of full stack web development course.",
+        "course_fee": "40,000.00",
+        "total_class": "50 classes",
+        "duration": "6 month",
+        "course_module": ""
+    },
+    {
+        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "course_id": "07",
+        "name": "WORDPRESS THEME CUSTOMIZATION",
+        "title": "Freelancing marketplace and client requirement wise free theme or premium theme customization.",
+        "image_url": "https://i.ibb.co/WnN6psQ/worp.jpg",
+        "details": "WordPress is an open source content management system software used to make pixel perfect websites, blog or apps. In this course you will learn from the very beginning, with an introduction to WordPress, installing WordPress basic theme in local server, to creating basic pages and posts. As the course progresses one is taught how to make a full business website with BE theme and introduced to page builder and revolution slider. Students are also taught how to install and customize Woo Commerce theme in order to make an e-commerce website.",
+        "course_fee": "15,000.00",
+        "total_class": "15 classes",
+        "duration": "3 month",
+        "course_module": ""
+    }
+]

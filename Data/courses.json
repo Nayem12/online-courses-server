@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "name": "PROFESSIONAL GRAPHIC DESIGN"
+    },
+    {
+        "id": "02",
+        "name": "WEB DEVELOPMENT"
+    },
+    {
+        "id": "03",
+        "name": "ADVANCED GRAPHIC DESIGN"
+    },
+    {
+        "id": "04",
+        "name": "DIGITAL MARKETING"
+    },
+    {
+        "id": "05",
+        "name": "UI/UX DESIGN"
+    },
+    {
+        "id": "06",
+        "name": "FULL STACK WEB DEVELOPMENT"
+    },
+    {
+        "id": "07",
+        "name": "WORDPRESS THEMES CUSTOMIZATION"
+    }
+]
